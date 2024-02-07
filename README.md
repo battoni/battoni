@@ -1,3 +1,5 @@
+[](https://guilherme.battoni.dev/guilherme-battoni-cover-picture.png)
+
 # 💫 About Me:
 Hi, I'm a Web Developer since 2012. Made in Brazil. Been around since 1992. Remote worker. Curious learner. Creativity lover.<br>Productivity addict. Problem solver by nature. Brazilian Sign language volunteer teacher.
 
@@ -14,5 +16,3 @@ Hi, I'm a Web Developer since 2012. Made in Brazil. Been around since 1992. Remo
 
 ---
 [![](https://visitcount.itsvg.in/api?id=battoni&icon=2&color=3)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
