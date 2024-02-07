@@ -4,7 +4,7 @@
 ##  Welcome! 🙋🏻‍♂️
 I'm a Web Developer since 2012 helping individuals and companies to find creative solutions using technology. Made in Brazil. Deployed on production since 1992. Curious learner. Creativity lover. Productivity addict. Problem solver by nature. Brazilian Sign language volunteer teacher.
 
-Are you looking for an experienced and skilled senior web developer?  
+Are you looking for an experienced and skilled senior web developer? 
 Well, your search is over! 🎯
 
 Let's connect and create something amazing together:
