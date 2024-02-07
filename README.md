@@ -1,7 +1,7 @@
 
 [![Guilherme Battoni cover picture](https://guilherme.battoni.dev/guilherme-battoni-cover-picture.png)](https://linkedin.com/in/battoni) 
 
-##  Welcome! 🙋🏼
+##  Welcome! 🙋🏻‍♂️
 I'm a Web Developer since 2012 helping individuals and companies to find creative solutions using technology. Made in Brazil. Deployed on production since 1992. Curious learner. Creativity lover. Productivity addict. Problem solver by nature. Brazilian Sign language volunteer teacher.
 
 Are you looking for an experienced and skilled senior web developer?
@@ -14,7 +14,7 @@ Let's connect and create something amazing together:
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilherme@battoni.dev)
 [![Resume](https://img.shields.io/badge/Resume-%23F7DF1E?style=for-the-badge&logo=adobe&logoColor=black)](https://guilherme.battoni.dev/guilherme-battoni-resume.pdf)
 
-## Preferred Stack 🧑🏼‍💻
+## Preferred Stack 👨🏻‍💻
 
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
